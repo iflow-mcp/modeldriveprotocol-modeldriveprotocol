@@ -9,7 +9,7 @@ import {
   MDP_PROTOCOL_VERSION,
   isJsonObject,
   isJsonValue
-} from '@modeldriveprotocol/protocol'
+} from '@iflow-mcp/modeldriveprotocol-protocol'
 
 import type { BridgeRequest } from './bridge-requests.js'
 

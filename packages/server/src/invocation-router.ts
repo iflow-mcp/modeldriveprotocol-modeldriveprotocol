@@ -7,7 +7,7 @@ import type {
   JsonValue,
   PathNodeKind,
   RpcArguments
-} from '@modeldriveprotocol/protocol'
+} from '@iflow-mcp/modeldriveprotocol-protocol'
 
 import type { ClientSession } from './client-session.js'
 

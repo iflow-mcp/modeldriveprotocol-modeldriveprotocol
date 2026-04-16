@@ -4,7 +4,7 @@ import type {
   HttpMethod,
   JsonValue,
   RpcArguments
-} from '@modeldriveprotocol/protocol'
+} from '@iflow-mcp/modeldriveprotocol-protocol'
 
 import type { MdpServerRuntime } from './mdp-server.js'
 

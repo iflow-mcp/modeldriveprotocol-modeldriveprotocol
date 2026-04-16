@@ -4,7 +4,7 @@ import type {
   ClientConnectionMode,
   ClientDescriptor,
   ServerToClientMessage
-} from '@modeldriveprotocol/protocol'
+} from '@iflow-mcp/modeldriveprotocol-protocol'
 
 export interface ClientSessionTransport {
   readonly mode: ClientConnectionMode

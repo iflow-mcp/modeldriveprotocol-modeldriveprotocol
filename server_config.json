@@ -1,0 +1,3 @@
+{
+  "serverConfig": "{\"mcpServers\":{\"modeldriveprotocol\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/modeldriveprotocol-server\"],\"values\":{}}}}"
+}

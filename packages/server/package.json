@@ -36,15 +36,14 @@
     "runtime-docs"
   ],
   "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "access": "public"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.17.4",
-    "@modeldriveprotocol/protocol": "workspace:*",
     "semver": "^7.7.4",
     "ws": "^8.18.3",
-    "zod": "^3.25.76"
+    "zod": "^3.25.76",
+    "@iflow-mcp/modeldriveprotocol-protocol": "^2.2.0"
   },
   "devDependencies": {
     "@types/semver": "^7.7.1",

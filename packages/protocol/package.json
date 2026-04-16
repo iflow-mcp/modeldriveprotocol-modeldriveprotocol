@@ -1,5 +1,5 @@
 {
-  "name": "@modeldriveprotocol/protocol",
+  "name": "@iflow-mcp/modeldriveprotocol-protocol",
   "version": "2.2.0",
   "type": "module",
   "license": "MIT",
@@ -32,8 +32,7 @@
     "dist"
   ],
   "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "access": "public"
   },
   "scripts": {
     "build": "tsc -b",

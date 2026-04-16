@@ -5,7 +5,7 @@ import {
   type JsonObject,
   createSerializedError,
   parseMessage
-} from '@modeldriveprotocol/protocol'
+} from '@iflow-mcp/modeldriveprotocol-protocol'
 import WebSocket from 'ws'
 
 import type { InvocationRequest } from './invocation-router.js'

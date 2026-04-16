@@ -1,4 +1,4 @@
-import { MDP_PROTOCOL_VERSION } from '@modeldriveprotocol/protocol'
+import { MDP_PROTOCOL_VERSION } from '@iflow-mcp/modeldriveprotocol-protocol'
 import { satisfies, valid, validRange } from 'semver'
 
 import { DEFAULT_DISCOVERY_ATTEMPTS, DEFAULT_DISCOVERY_HOST, DEFAULT_MDP_PORT } from './defaults.js'

@@ -4,8 +4,8 @@ import type {
   ClientToServerMessage,
   ListedClient,
   PathDescriptor
-} from '@modeldriveprotocol/protocol'
-import { createSerializedError } from '@modeldriveprotocol/protocol'
+} from '@iflow-mcp/modeldriveprotocol-protocol'
+import { createSerializedError } from '@iflow-mcp/modeldriveprotocol-protocol'
 
 import {
   type ListClientsOptions,

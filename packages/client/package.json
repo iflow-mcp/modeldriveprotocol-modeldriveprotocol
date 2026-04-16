@@ -51,7 +51,7 @@
     "provenance": true
   },
   "dependencies": {
-    "@modeldriveprotocol/protocol": "workspace:*",
+    "@iflow-mcp/modeldriveprotocol-protocol": "workspace:*",
     "ws": "^8.19.0"
   },
   "devDependencies": {

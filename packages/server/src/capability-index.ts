@@ -5,11 +5,11 @@ import type {
   IndexedPathDescriptor,
   ListedClient,
   PathDescriptor
-} from '@modeldriveprotocol/protocol'
+} from '@iflow-mcp/modeldriveprotocol-protocol'
 import {
   comparePathSpecificity,
   matchPathPattern
-} from '@modeldriveprotocol/protocol'
+} from '@iflow-mcp/modeldriveprotocol-protocol'
 
 export interface RegisteredClientSnapshot {
   descriptor: ClientDescriptor

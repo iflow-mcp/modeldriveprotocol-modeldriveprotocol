@@ -20,7 +20,7 @@ import {
   MDP_SUPPORTED_PROTOCOL_RANGES,
   isJsonObject,
   isMdpMessage
-} from '@modeldriveprotocol/protocol'
+} from '@iflow-mcp/modeldriveprotocol-protocol'
 import type { RawData } from 'ws'
 import WebSocket, { WebSocketServer } from 'ws'
 

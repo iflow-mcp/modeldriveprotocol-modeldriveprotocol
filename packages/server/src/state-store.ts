@@ -2,7 +2,7 @@ import { randomUUID } from 'node:crypto'
 import { mkdir, rename, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 
-import type { IndexedPathDescriptor, ListedClient } from '@modeldriveprotocol/protocol'
+import type { IndexedPathDescriptor, ListedClient } from '@iflow-mcp/modeldriveprotocol-protocol'
 
 import type { ClusterManagerState } from './cluster-manager.js'
 

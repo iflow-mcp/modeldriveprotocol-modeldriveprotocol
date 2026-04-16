@@ -15,7 +15,7 @@ import {
   type JsonValue,
   createSerializedError,
   parseClusterMessage
-} from '@modeldriveprotocol/protocol'
+} from '@iflow-mcp/modeldriveprotocol-protocol'
 import WebSocket from 'ws'
 
 import {
