@@ -1,5 +1,5 @@
 {
-  "name": "@modeldriveprotocol/server",
+  "name": "@iflow-mcp/modeldriveprotocol-server",
   "version": "2.2.0",
   "type": "module",
   "license": "MIT",
@@ -23,8 +23,7 @@
     "agent"
   ],
   "bin": {
-    "modeldriveprotocol-server": "./dist/cli.js",
-    "mdp": "./dist/cli.js"
+    "iflow-mcp-modeldriveprotocol-server": "./dist/cli.js"
   },
   "exports": {
     ".": {
